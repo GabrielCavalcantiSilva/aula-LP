@@ -18,9 +18,9 @@ public class Encomenda {
     Double calcularFrete(){
             Double valorFreteTamanho;
             Double valorFrete;
-        if (tamanho.equals("P")){
+        if (tamanho.equalsIgnoreCase("P")){
             valorFreteTamanho = valorEncomenda*0.01;
-        }else if (tamanho.equals("M")){
+        }else if (tamanho.equalsIgnoreCase("M")){
             valorFreteTamanho = valorEncomenda*0.03;
         } else {
             valorFreteTamanho = valorEncomenda*0.05;
