@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/metodos/pom.xml" />
+        <option value="$PROJECT_DIR$/timerzinho/pom.xml" />
+        <option value="$PROJECT_DIR$/atividade02-ac1/pom.xml" />
+        <option value="$PROJECT_DIR$/atividade02-ac01/pom.xml" />
+        <option value="$PROJECT_DIR$/desafio-java-swing/pom.xml" />
+        <option value="$PROJECT_DIR$/exemplo-java-swing/pom.xml" />
+        <option value="$PROJECT_DIR$/avaliacaocontinuada/pom.xml" />
+        <option value="$PROJECT_DIR$/lista-introducao-poo/pom.xml" />
+        <option value="$PROJECT_DIR$/primeiro-projeto-poo/pom.xml" />
+        <option value="$PROJECT_DIR$/lista-poo-encapsulamento/pom.xml" />
+        <option value="$PROJECT_DIR$/terceira-lista-nivelamento/pom.xml" />
+        <option value="$PROJECT_DIR$/encapsulamento-conta-bancaria/pom.xml" />
+        <option value="$PROJECT_DIR$/programacao.orientada.objetos/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

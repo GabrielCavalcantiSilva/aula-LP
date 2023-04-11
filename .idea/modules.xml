@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atividade02-ac01/atividade02-ac01.iml" filepath="$PROJECT_DIR$/atividade02-ac01/atividade02-ac01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade02-ac1/atividade02-ac1.iml" filepath="$PROJECT_DIR$/atividade02-ac1/atividade02-ac1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aula-LP.iml" filepath="$PROJECT_DIR$/.idea/aula-LP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avaliacaocontinuada/avaliacaocontinuada.iml" filepath="$PROJECT_DIR$/avaliacaocontinuada/avaliacaocontinuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-java-swing/desafio-java-swing.iml" filepath="$PROJECT_DIR$/desafio-java-swing/desafio-java-swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento-conta-bancaria/encapsulamento-conta-bancaria.iml" filepath="$PROJECT_DIR$/encapsulamento-conta-bancaria/encapsulamento-conta-bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo-java-swing/exemplo-java-swing.iml" filepath="$PROJECT_DIR$/exemplo-java-swing/exemplo-java-swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista-introducao-poo/lista-introducao-poo.iml" filepath="$PROJECT_DIR$/lista-introducao-poo/lista-introducao-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista-poo-encapsulamento/lista-poo-encapsulamento.iml" filepath="$PROJECT_DIR$/lista-poo-encapsulamento/lista-poo-encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro-projeto-poo/primeiro-projeto-poo.iml" filepath="$PROJECT_DIR$/primeiro-projeto-poo/primeiro-projeto-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programacao.orientada.objetos/programacao.orientada.objetos.iml" filepath="$PROJECT_DIR$/programacao.orientada.objetos/programacao.orientada.objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terceira-lista-nivelamento/terceira-lista-nivelamento.iml" filepath="$PROJECT_DIR$/terceira-lista-nivelamento/terceira-lista-nivelamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timerzinho/timerzinho.iml" filepath="$PROJECT_DIR$/timerzinho/timerzinho.iml" />
+    </modules>
+  </component>
+</project>

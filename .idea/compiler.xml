@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="avaliacaocontinuada" />
+        <module name="metodos" />
+        <module name="lista-poo-encapsulamento" />
+        <module name="terceira-lista-nivelamento" />
+        <module name="atividade02-ac01" />
+        <module name="exemplo-java-swing" />
+        <module name="programacao.orientada.objetos" />
+        <module name="atividade02-ac1" />
+        <module name="primeiro-projeto-poo" />
+        <module name="desafio-java-swing" />
+        <module name="lista-introducao-poo" />
+        <module name="encapsulamento-conta-bancaria" />
+        <module name="timerzinho" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="atividade02-ac01" target="17" />
+      <module name="atividade02-ac1" target="17" />
+      <module name="avaliacaocontinuada" target="17" />
+      <module name="desafio-java-swing" target="17" />
+      <module name="encapsulamento-conta-bancaria" target="17" />
+      <module name="exemplo-java-swing" target="17" />
+      <module name="lista-introducao-poo" target="17" />
+      <module name="lista-poo-encapsulamento" target="17" />
+      <module name="metodos" target="17" />
+      <module name="primeiro-projeto-poo" target="17" />
+      <module name="programacao.orientada.objetos" target="17" />
+      <module name="terceira-lista-nivelamento" target="17" />
+      <module name="timerzinho" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
